@@ -2,6 +2,7 @@
 
 ![banner](https://velog.velcdn.com/images/daun/post/ef43a2d9-cb0c-4a32-b647-1a5fe566f9d3/image.png)
 
+[작성코드](https://github.com/tahl04/chef-lee-code.git)
 <br>
 
 ## 🌱 프로젝트 소개및 제작 계기
